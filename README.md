@@ -23,3 +23,10 @@ An implementation of Artistic Style Transfer algorithm using neural networks bas
 - After 500 steps iteration the training is finished just check the result on the GUI
 
 ![](https://github.com/geekberu/image_style_transfer/blob/master/examples/gui/gui2.jpg?raw=true)
+
+## Test Results
+<div align="center">
+ <img src="https://github.com/geekberu/image_style_transfer/blob/master/examples/content_2.jpg?raw=true" height="223px">
+ <img src="https://github.com/geekberu/image_style_transfer/blob/master/examples/style_4.jpg?raw=true" height="223px">
+ <img src="https://github.com/geekberu/image_style_transfer/blob/master/examples/gen_img_2_4.jpg?raw=true" width="423px">
+</div>
