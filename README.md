@@ -17,7 +17,9 @@ An implementation of Artistic Style Transfer algorithm using neural networks bas
 `python style_transfer.py`
 
 - It will popup the GUI, click the "Content Img" button and "Style Img" button to choose content and style, then click "Transfer", ok, it's training now. Very easy!
+
 ![](https://github.com/geekberu/image_style_transfer/blob/master/examples/gui/gui1.jpg?raw=true)
 
 - After 500 steps iteration the training is finished just check the result on the GUI
+
 ![](https://github.com/geekberu/image_style_transfer/blob/master/examples/gui/gui2.jpg?raw=true)
