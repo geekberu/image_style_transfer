@@ -29,4 +29,6 @@ An implementation of Artistic Style Transfer algorithm using neural networks bas
  <img src="https://github.com/geekberu/image_style_transfer/blob/master/examples/content_2.jpg?raw=true" height="223px">
  <img src="https://github.com/geekberu/image_style_transfer/blob/master/examples/style_4.jpg?raw=true" height="223px">
 </div>
+<div align="center">
 <img src="https://github.com/geekberu/image_style_transfer/blob/master/examples/gen_img_2_4.jpg?raw=true" width="423px">
+</div>
